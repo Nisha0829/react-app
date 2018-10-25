@@ -11,7 +11,6 @@ class Counter extends Component {
     }
 
     componentWillUnmount() {
-        console.log("Counter -UnMount");
     }
     
     // renderTags ()
